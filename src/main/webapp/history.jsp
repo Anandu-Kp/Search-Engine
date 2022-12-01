@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<body>
+<body background="home1.jpg">
     <div class="resultTable">
 
         <table border  =  2>

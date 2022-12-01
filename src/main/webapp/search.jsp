@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<body>
+<body background="home1.jpg">
     <form action ="Search">
     <input type="text" name="keyword"></input>
     <button type="submit">Search</button>
