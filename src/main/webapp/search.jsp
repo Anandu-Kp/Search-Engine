@@ -9,6 +9,7 @@
 </head>
 
 <body background="home1.jpg">
+    <a href="index.jsp"><img src="logo3.png"  width="100" height="60"></a>
     <form action ="Search">
     <input type="text" name="keyword"></input>
     <button type="submit">Search</button>

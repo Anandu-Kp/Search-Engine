@@ -9,8 +9,11 @@
 </head>
 
 <body background="home1.jpg">
-    <div class="resultTable">
+    <div class="historylogo">
+        <a href="index.jsp"><img src="logo3.png"  width="100" height="60"></a>
+    </div>
 
+    <div class="resultTable">
         <table border  =  2>
             <tr>
                 <th>Name</th>
